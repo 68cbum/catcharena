@@ -1,6 +1,6 @@
 // 캐치 아레나 · Google Analytics 4 설정
 // ▼ GA4 측정 ID를 여기에 넣으세요 (예: 'G-AB12CD34EF'). 이 한 줄만 바꾸면 게임과 테스트 모두에 적용돼요.
-window.GA_ID = 'G-XXXXXXXXXX';
+window.GA_ID = 'G-WXQ1VM51DR';
 
 window.dataLayer = window.dataLayer || [];
 function gtag(){ dataLayer.push(arguments); }
